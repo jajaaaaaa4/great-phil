@@ -1,0 +1,25 @@
+
+{
+		"name": "Headquarters",
+		"replaces": "Palace",
+		"cost": 1,
+		"isUniqueTo": "Great Philippines",
+		"isNationalWonder": true,
+		"production": 30,
+		"science": 30,
+		"gold": 30,
+		"culture": 15,
+		"cityStrength": 20,
+		"uniques": ["Indicates the capital city"]
+},
+{
+		"name": "Walls of the Great Philippines",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Great Philippines",
+		"cityStrength": 60,
+		"cityHealth": 250,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+}
