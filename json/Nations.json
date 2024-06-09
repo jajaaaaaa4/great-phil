@@ -1,5 +1,6 @@
 [
 	{
+		//nations
 		"name": "Great Philippines",
 		"leaderName": "Jaja",
 		"adjective": ["Great People"],
@@ -29,6 +30,8 @@
 
 		"outerColor": [145,172,247],
 		"innerColor": [49,6,133],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Bagong Pilipinas",
 		"uniques": [
         		"Free [Great Engineer] appears",
         		"[Great Engineer] is earned [50000]% faster",
@@ -75,6 +78,7 @@
         		"No movement cost to pillage <for [Melee] units>",
         		"Gain a free [Harbor] [in all coastal cities]"
                 ],
-		"cities": ["Manila", "Cebu", "Davao", "Baguio", "Puerto Prinsesa", "Vigan", "San Fernando", "Calamba", "Quezon", "Batanes"]
+		"cities": ["Manila", "Cebu", "Davao", "Baguio", "Puerto Prinsesa", "Vigan", "San Fernando", "Calamba", "Quezon", "Batanes"],
+		"spyNames": ["Emilio", "Jose", "Manuel", "Sergio", "Elpidio", "Ramon", "Ferdinand", "Corazon", "Fidel", "Joseph", "Gloria", "Benigno", "Rodrigo", "Bongbong"]
 	}
 ]
