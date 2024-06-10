@@ -1,3 +1,4 @@
+]
 {
 		"name": "Headquarters",
 		"replaces": "Palace",
@@ -22,3 +23,4 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 }
+]
